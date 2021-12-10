@@ -30,7 +30,6 @@ binwalk
 blinker
 boltons
 bottle
-Brotli
 catfish
 cbor
 certifi
