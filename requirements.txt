@@ -247,7 +247,6 @@ rdflib
 redis
 rekall-core
 rekall-lib
-repozelru
 requests
 requests-file
 requests-ntlm
