@@ -30,7 +30,7 @@ binwalk
 blinker
 boltons
 bottle
-catfish
+Brotli
 cbor
 certifi
 Chameleon
