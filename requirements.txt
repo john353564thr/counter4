@@ -300,7 +300,6 @@ Unidecode
 urllib3
 urwid
 venusian
-waf00wf
 waitress
 wapiti3
 wcwidth
