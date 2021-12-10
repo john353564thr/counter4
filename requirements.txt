@@ -294,7 +294,6 @@ translationstring
 Twisted
 txaio
 typing-extensions
-tzlocalb
 u-msgpack-python
 unicodecsv
 Unidecode
