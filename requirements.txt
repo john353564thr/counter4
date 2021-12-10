@@ -258,7 +258,6 @@ Rx
 scapy
 scipy
 secure
-seleniuma
 service-identity
 setproctitle
 setuptools
