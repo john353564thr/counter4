@@ -31,7 +31,6 @@ blinker
 boltons
 bottle
 Brotli
-capstone
 catfish
 cbor
 certifi
