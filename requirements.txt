@@ -312,7 +312,6 @@ Werkzeug
 wfuzz
 wheel
 whois
-wifite
 winacl
 wsaccel
 wsproto
