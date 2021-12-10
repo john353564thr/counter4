@@ -46,7 +46,6 @@ cryptography
 cycler
 Cython
 dbus-python
-debtags
 decorator
 dicttoxml
 distro
