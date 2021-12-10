@@ -325,4 +325,3 @@ yarg
 yarl
 yaswfp
 zipp
-zopeinterface
