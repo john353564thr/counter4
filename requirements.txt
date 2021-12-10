@@ -325,6 +325,5 @@ yarg
 yarl
 yaswfp
 zipp
-zopeevent
 zopehookable
 zopeinterface
