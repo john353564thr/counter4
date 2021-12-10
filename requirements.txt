@@ -118,8 +118,6 @@ Jinja2
 jsonschema
 jupyter-core
 kaitaistruct
-KismetCaptureRtladsb
-KismetCaptureRtlamr
 kiwisolver
 ldap3
 ldapdomaindump
