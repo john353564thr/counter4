@@ -253,7 +253,6 @@ requests-ntlm
 retrying
 Routes
 rq
-ruamelyaml
 ruamelyamlclib
 rule-engine
 Rx
