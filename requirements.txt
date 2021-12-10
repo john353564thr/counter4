@@ -83,7 +83,6 @@ geojson
 gevent
 gitdb
 GitPython
-gpg
 graphene
 graphene-sqlalchemy
 graphql-core
