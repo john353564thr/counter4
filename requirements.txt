@@ -121,7 +121,6 @@ kaitaistruct
 kiwisolver
 ldap3
 ldapdomaindump
-lightdm-gtk-greeter-settings
 lsassy
 lxml
 lz4
