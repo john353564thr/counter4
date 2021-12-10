@@ -325,5 +325,4 @@ yarg
 yarl
 yaswfp
 zipp
-zopehookable
 zopeinterface
