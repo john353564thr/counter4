@@ -118,7 +118,6 @@ Jinja2
 jsonschema
 jupyter-core
 kaitaistruct
-kazam
 KismetCaptureFreaklabsZigbee
 KismetCaptureRtl433
 KismetCaptureRtladsb
