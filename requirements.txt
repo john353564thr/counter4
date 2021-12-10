@@ -253,7 +253,6 @@ requests-ntlm
 retrying
 Routes
 rq
-ruamelyamlclib
 rule-engine
 Rx
 scapy
