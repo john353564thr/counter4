@@ -23,7 +23,6 @@ autobahn
 Automat
 Babel
 backcall
-basemap
 bcrypt
 beautifulsoup4
 binwalk
@@ -77,9 +76,6 @@ Flask-Security
 Flask-SQLAlchemy
 Flask-WTF
 future
-GDAL
-geoip2
-geojson
 gevent
 gitdb
 GitPython
