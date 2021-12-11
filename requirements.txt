@@ -207,7 +207,6 @@ pyparsing
 PyPDF2
 pyperclip
 pypng
-pyproj
 pypsrp
 pypykatz
 PyQRCode
